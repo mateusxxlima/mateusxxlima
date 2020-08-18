@@ -1,5 +1,5 @@
 # Mateus Lima  
-### Science and technology lover  :computer::microscope::test_tube:
+### Science and technology lover  :computer::microscope:
 
 - :computer: Computer Science 
 - :mortar_board: Universidade Federal da Fronteira Sul
