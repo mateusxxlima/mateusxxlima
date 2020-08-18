@@ -4,3 +4,4 @@
 - :man_student: Computer Science 
 - :mortar_board: Universidade Federal da Fronteira Sul
 - :office: Compasso Technology
+- :cityscape: Chapecó - SC
