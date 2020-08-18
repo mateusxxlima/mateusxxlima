@@ -3,4 +3,4 @@
 
 - :man_student: Computer Science 
 - :mortar_board: Universidade Federal da Fronteira Sul
-- :office: CompassoUOL Technology
+- :office: Compasso Technology
