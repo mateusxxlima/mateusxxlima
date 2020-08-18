@@ -1,6 +1,6 @@
 # Mateus Lima  
-**Science and technology lover**  :computer:
+### Science and technology lover  :computer::microscope::test_tube:
 
-- :office: CompassoUOL Technology 
-- :mortar_board: Universidade federal da fronteira sul
-
+- :computer: Computer Science 
+- :mortar_board: Universidade Federal da Fronteira Sul
+- :office: CompassoUOL Technology
