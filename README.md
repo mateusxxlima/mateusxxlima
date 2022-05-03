@@ -2,7 +2,7 @@
 ### Science and technology lover :man_scientist::man_technologist:
 
 - :man_student: Computer Science
-- :mortar_board: Universidade Federal da Fronteira Sul
+- :mortar_board: Universidade Federal da Fronteira Sul - UFFS
 - :office: Compasso UOL
 - :cityscape: Chapecó - SC
 
