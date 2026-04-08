@@ -3,7 +3,6 @@
 
 - :man_student: Computer Science
 - :mortar_board: Universidade Federal da Fronteira Sul - UFFS
-- :office: Compass UOL
 - :cityscape: Chapecó - SC
 
 ### Experience:
